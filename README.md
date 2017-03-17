@@ -1,6 +1,7 @@
 # Weather App with React/Redux
 
 Making AJAX Call
+
 Working with Open Weather API
 
 
